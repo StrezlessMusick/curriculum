@@ -1,0 +1,85 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+
+<?php
+    
+use Metadata\MetadataFactory;
+use Metadata\Driver\DriverChain;
+
+$driver = new DriverChain(array(
+    /** Annotation, YAML, XML, PHP, ... drivers */
+));
+$factory = new MetadataFactory($driver);
+$metadata = $factory->getMetadataForClass('MyNamespace\MyObject');
+
+E/nfo.android.ap(31336): Not starting debugger since process cannot load the jdwp agent.
+D/PhoneWindow(31336): windowLightStatusBar : false, disable View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
+D/OpenGLRenderer(31336): Skia GL Pipeline
+D/BezellessGripSuppressionFilter(31336): getdisplaysize, x : 1440 y : 3120
+I/Adreno  (31336): QUALCOMM build                   : 6d3e40b, I034491c44e
+I/Adreno  (31336): Build Date                       : 10/28/18
+I/Adreno  (31336): OpenGL ES Shader Compiler Version: EV031.25.03.01
+I/Adreno  (31336): Local Branch                     : 
+I/Adreno  (31336): Remote Branch                    : 
+I/Adreno  (31336): Remote Branch                    : 
+I/Adreno  (31336): Reconstruct Branch               : 
+I/Adreno  (31336): Build Config                     : S P 6.0.7 AArch64
+I/Adreno  (31336): PFP: 0x016ee176, ME: 0x00000000
+I/ConfigStore(31336): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+I/ConfigStore(31336): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+I/OpenGLRenderer(31336): Initialized EGL, version 1.4
+D/OpenGLRenderer(31336): Swap behavior 2
+
+E/nfo.android.ap(17144): Not starting debugger since process cannot load the jdwp agent.
+D/PhoneWindow(17144): windowLightStatusBar : false, disable View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
+D/OpenGLRenderer(17144): Skia GL Pipeline
+E/FontFamily(17144): Error mapping font file /storage/emulated/0/Download/google-site-kit.1.85.0(1)/google-site-kit/third-party/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php
+D/BezellessGripSuppressionFilter(17144): getdisplaysize, x : 1440 y : 3120
+D/BezellessGripSuppressionFilter(17144): getdisplaysize, x : 1440 y : 3120
+I/Adreno  (17144): QUALCOMM build                   : 6d3e40b, I034491c44e
+I/Adreno  (17144): Build Date                       : 10/28/18
+I/Adreno  (17144): OpenGL ES Shader Compiler Version: EV031.25.03.01
+I/Adreno  (17144): Local Branch                     : 
+I/Adreno  (17144): Remote Branch                    : 
+I/Adreno  (17144): Remote Branch                    : 
+I/Adreno  (17144): Reconstruct Branch               : 
+I/Adreno  (17144): Build Config                     : S P 6.0.7 AArch64
+I/Adreno  (17144): PFP: 0x016ee176, ME: 0x00000000
+I/ConfigStore(17144): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+I/ConfigStore(17144): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+I/OpenGLRenderer(17144): Initialized EGL, version 1.4
+D/OpenGLRenderer(17144): Swap behavior 2
+D/BezellessGripSuppressionFilter(17144): getdisplaysize, x : 1440 y : 3120
+W/ActivityThread(17144): handleWindowVisibility: no activity for token android.os.BinderProxy@93d88f3
+D/PhoneWindow(17144): windowLightStatusBar : false, disable View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
+D/BezellessGripSuppressionFilter(17144): getdisplaysize, x : 1440 y : 3120
+D/OpenGLRenderer(17144): endAllActiveAnimators on 0x709de84e00 (MenuPopupWindow$MenuDropDownListView) with handle 0x709e57f080
+I/Adreno  (17144): QUALCOMM build                   : 6d3e40b, I034491c44e
+I/Adreno  (17144): Build Date                       : 10/28/18
+I/Adreno  (17144): OpenGL ES Shader Compiler Version: EV031.25.03.01
+I/Adreno  (17144): Local Branch                     : 
+I/Adreno  (17144): Remote Branch                    : 
+I/Adreno  (17144): Remote Branch                    : 
+I/Adreno  (17144): Reconstruct Branch               : 
+I/Adreno  (17144): Build Config                     : S P 6.0.7 AArch64
+I/Adreno  (17144): PFP: 0x016ee176, ME: 0x00000000
+I/ConfigStore(17144): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+I/ConfigStore(17144): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+I/OpenGLRenderer(17144): Initialized EGL, version 1.4
+D/OpenGLRenderer(17144): Swap behavior 2
+I/TouchFlickNoti(17144): CHANGE DOWN TO UP vectorVelocity:-748
+I/TouchFlickNoti(17144): CHANGE DOWN TO UP vectorVelocity:-496
+D/PhoneWindow(17144): windowLightStatusBar : false, disable View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
+D/BezellessGripSuppressionFilter(17144): getdisplaysize, x : 1440 y : 3120
+D/OpenGLRenderer(17144): endAllActiveAnimators on 0x709dfa6200 (AlertController$RecycleListView) with handle 0x709df5a940
+I/TouchFlickNoti(17144): CHANGE DOWN TO UP vectorVelocity:0
+I/TouchFlickNoti(17144): CHANGE DOWN TO UP vectorVelocity:0
