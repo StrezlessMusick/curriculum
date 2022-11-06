@@ -48,6 +48,435 @@ Types of change:
 
 ### Fixed
 
+## November 3rd 2022
+
+### Added
+- [Tech Interviews - Topic - Add new topic](https://github.com/enkidevs/curriculum/pull/3124)
+- [Tech Interviews - Topic - Minor improvement](https://github.com/enkidevs/curriculum/pull/3127)
+
+## October 31st 2022
+
+### Changed
+- [Git - Pushing - Replace master branch name with main](https://github.com/enkidevs/curriculum/pull/3121)
+
+## October 21st 2022
+
+### Fixed
+- [SQL - Group By Clause - fix markdown issue](https://github.com/enkidevs/curriculum/pull/3117)
+
+## October 20th 2022
+
+### Changed
+- [Sql - SQL NOT Example - Fix revision answers so people dont get it wrong due to different ordering](https://github.com/enkidevs/curriculum/pull/3116)
+
+## October 19th 2022
+
+### Changed
+- [Golang - Logical Operators - Switch answers around so different capitalizations dont make the answer wrong](https://github.com/enkidevs/curriculum/pull/3115)
+
+### Added
+- [Linux - Command to shutdown or restart the system - Add additional information](https://github.com/enkidevs/curriculum/pull/3114)
+
+## September 28th 2022
+
+### Changed
+- [Playgroud workouts names are more succinct](https://github.com/enkidevs/curriculum/pull/3110)
+
+## September 28th 2022
+
+### Fixed
+- [SQL - Inner Join - Explain Inner join and Join are the same thing](https://github.com/enkidevs/curriculum/pull/3109)
+
+## September 16th 2022
+
+### Fixed
+- [Python - Threading - Fix Workout Name](https://github.com/enkidevs/curriculum/pull/3106)
+
+## September 15th 2022
+
+### Added
+- [Python - Threading - Add workout](https://github.com/enkidevs/curriculum/pull/2689)
+
+## August 30th 2022
+
+### Fixed
+- [Python - Method Overriding - Replace 404 link](https://github.com/enkidevs/curriculum/pull/3104)
+
+## August 9th 2022
+
+### Fixed
+- [Python Data Analysis - TVShow Ratings - Remove empty answer](https://github.com/enkidevs/curriculum/pull/3099)
+
+## August 1st 2022
+
+### Fixed
+- [MongoDB - Find One And Delete - Fix wrong headline](https://github.com/enkidevs/curriculum/pull/3098)
+
+## July 29th 2022
+
+- [TypeScript - TSC Any Void Null Undefined - Replace deprecated links](https://github.com/enkidevs/curriculum/pull/3096)
+
+## July 20th 2022
+
+### Changed
+- [Linux - Input and Output Redirection With And - Shorten names in RQ](https://github.com/enkidevs/curriculum/pull/3067)
+
+## July 13th 2022
+
+### Fixed
+- [Data Analysis - Key Metrics - Minor grammar improvement](https://github.com/enkidevs/curriculum/pull/3095)
+
+## July 4th 2022
+
+### Fixed
+- [JavaScript - Yield - Add missing semicolons in RQ](https://github.com/enkidevs/curriculum/pull/3089)
+
+## June 16th 2022
+
+### Fixed
+- [Git - Cherry Pick A Commit - Replace broken link with a working one](https://github.com/enkidevs/curriculum/pull/3092)
+
+### Changed
+
+## June 30th 2022
+
+### Fixed
+- [Python - Why Functional Programming - Fix typo in footnote](https://github.com/enkidevs/curriculum/pull/3093)
+
+### Changed
+- [Curriculum - README - Update emails](https://github.com/enkidevs/curriculum/pull/3069)
+
+## May 18th 2022
+
+### Fixed
+- [Computer Science - Heap Data Structure - Minor grammar improvement](https://github.com/enkidevs/curriculum/pull/3086)
+
+### Changed
+- [Git - What Is Stored In A Checksum - Update question](https://github.com/enkidevs/curriculum/pull/3088)
+
+## May 18th 2022
+
+### Fixed
+- [React - React What Is State - Minor grammar improvement](https://github.com/enkidevs/curriculum/pull/3085)
+
+## May 16th 2022
+
+### Fixed
+- [Blockchain - Blocks III - Update new domain on demo link](https://github.com/enkidevs/curriculum/pull/3084)
+- [Data Analysis - Marketing Metricts - Add missing parenthesis to the equations in PQ and RQ](https://github.com/enkidevs/curriculum/pull/3083)
+- [Python - Dictionary Methods I - Add missing print to 4th code block](https://github.com/enkidevs/curriculum/pull/3081)
+
+## May 15th 2022
+
+### Changed
+- [Java - Abstract Keyword - Make answers match method names](https://github.com/enkidevs/curriculum/pull/3082) 
+
+## April 26th 2022
+
+### Fixed
+- [Styling - Page Break for Printing - Minor grammar improvement](https://github.com/enkidevs/curriculum/pull/3078)
+
+## April 25th 2022
+
+### Changed
+- [Security - Securing The Presentation Layer - Move link to Learn More section](https://github.com/enkidevs/curriculum/pull/3077)
+
+## April 21st 2022
+
+### Changed
+- [HTML - Sectioning Elements - Move less than and greater than symbols to code block and remove from answers](https://github.com/enkidevs/curriculum/pull/3075)
+
+## April 18th 2022
+
+### Fixed
+- [Data Analysis - Pandas Functions I - Minor Grammar Improvements](https://github.com/enkidevs/curriculum/pull/3074)
+- [Data Analysis - Product Analytics Tools - Minor Grammar Improvements](https://github.com/enkidevs/curriculum/pull/3073)
+
+## April 15th 2022
+
+### Fixed
+- [TypeScript - Number, String, Boolean - Replace Deprecated Links With Updated Ones](https://github.com/enkidevs/curriculum/pull/3072)
+
+## April 14th 2022
+
+### Fixed
+- [Python - The Sum Built In Function - Fix code block and answers in RQ](https://github.com/enkidevs/curriculum/pull/3071) 
+
+## April 6th 2022
+
+### Fixed
+- [Multple Topics - Multiple Insights - Add back ticks to all array like answers as they do not render the color](https://github.com/enkidevs/curriculum/pull/3070)
+
+## April 5th 2022
+
+### Fixed
+- [Blockhain - Blocks - Replace broken link with new one](https://github.com/enkidevs/curriculum/pull/3068)
+
+## April 3rd 2022
+
+### Fixed
+- [Java - Distinction Between Stack and Heap Memory - Update questions to have only one order](https://github.com/enkidevs/curriculum/pull/3066)
+
+## March 30th 2022
+
+### Changed
+- [Python - Clas Keywords - Remove type in the gap](https://github.com/enkidevs/curriculum/pull/3065)
+- [Python - Boolean Operators - Bold words that describe question ](https://github.com/enkidevs/curriculum/pull/3063)
+
+### Fixed
+- [Python - Looping Techniques - Fix pq and replace incorrect comment sign](https://github.com/enkidevs/curriculum/pull/3064)
+
+## March 25th 2022
+
+### Added
+- [Git - Git Features II - Add example with until date](https://github.com/enkidevs/curriculum/pull/3062)
+
+## March 17th 2022
+
+### Fixed
+- [JavaScript - How Npm3 Handles Dependencies - Fix answer flowing out of screen and minor spelling mistake](https://github.com/enkidevs/curriculum/pull/3058)
+
+## March 16th 2022
+
+### Fixed
+- [HTML - Intro cite - Remove double bigger than and smaller than signs from RQ answer](https://github.com/enkidevs/curriculum/pull/3060)
+- [JavaScript - Flags For NPM - Fix grammar (you to your) in pq](https://github.com/enkidevs/curriculum/pull/3059)
+- [Linux - Transforming Text With Sed - Fix text not showing](https://github.com/enkidevs/curriculum/pull/3061) 
+
+## March 4th 2022
+
+### Fixed
+- [Linux - User Mod Recipies - Move Single Line Command in PQ Back To A Single Line](https://github.com/enkidevs/curriculum/pull/3051)
+
+## March 2nd 2022
+
+### Changed
+- [SQL - AVG Clause - Remove LIMIT as it has no effect on the provided queries](https://github.com/enkidevs/curriculum/pull/3050)
+
+## February 28th 2022
+
+### Fixed
+- [Javascript - Battery API - Replace incorrect levelChange event name with the correct levelchange one](https://github.com/enkidevs/curriculum/pull/3048)
+- [Python - Chain Comparison Operators - Replace outdated link](https://github.com/enkidevs/curriculum/pull/3049)
+- [Data Analysis - Sorting And Filtering - Add missing L to calculations word in note](https://github.com/enkidevs/curriculum/pull/3047)
+
+## February 15th 2022
+
+### Fixed
+- [Spreadsheets - What Are Formulas - fix markdown table not rendering correctly in PQ](https://github.com/enkidevs/curriculum/pull/3043)
+
+## February 14th 2022
+
+### Changed
+- [Web - Anchor Links - Make RQ clearer](https://github.com/enkidevs/curriculum/pull/3041) 
+- [Web - Nested Lists - Remove type in the gap as it has no value](https://github.com/enkidevs/curriculum/pull/3040)
+- [Python - Python Packages - Remove whitespace from a one liner code that spanned two lines](https://github.com/enkidevs/curriculum/pull/3042) 
+
+### Fixed
+- [SQL - The Roles That Joins Play - Replace wrong output table with the correct one](https://github.com/enkidevs/curriculum/pull/3044)
+
+## February 7th 2022
+
+### Fixed
+- [MongoDb - Aggregation With $last - Replace $first operator with $last](https://github.com/enkidevs/curriculum/pull/3038)
+
+## January 25th 2022
+
+### Fixed
+- [Java - DRY Principle - Replace 404 link](https://github.com/enkidevs/curriculum/pull/3032)
+
+### Added
+- [TypeScript - tsc Extending Interfaces - Add more info](https://github.com/enkidevs/curriculum/pull/3029)
+
+### Archived
+- [Git - Remote Repository - Tracking and staging files duplicate](https://github.com/enkidevs/curriculum/pull/2970)
+
+## January 24th 2022
+
+### Changed
+- [Go - For Loops - Make the question fill in the gap only](https://github.com/enkidevs/curriculum/pull/3030)
+
+### Fixed
+- [HTML - List Orders - Remove extra answer field from RQ](https://github.com/enkidevs/curriculum/pull/3031)
+
+## January 10th 2022
+
+### Fixed
+- [Python - Set Comprehension - More corrent answer to appropriate place in RQ](https://github.com/enkidevs/curriculum/pull/2987) 
+
+## January 9th 2022
+
+### Changed
+- [Go - Go Packages - Remove type in the gap from PQ](https://github.com/enkidevs/curriculum/pull/2986)
+
+## January 5th 2022
+
+### Fixed
+- [HTML - Image Base - Add mising example using OpenGraph meta tag](https://github.com/enkidevs/curriculum/pull/2984)
+- [Git - Move The Last Commit To A New Branch - Add missing answer fields and improve wording of PQ](https://github.com/enkidevs/curriculum/pull/2983)
+- [Java - Multithreading Use Local Variables - Fix example](https://github.com/enkidevs/curriculum/pull/2982)
+
+### Changed
+- [Html - Link Relative Paths - Change part of PQ as it wasn't worder properly](https://github.com/enkidevs/curriculum/pull/2985)
+- [Python - Format Text Paragraphs With Textwrap - Make the fill method more clear](https://github.com/enkidevs/curriculum/pull/2981)
+- [Python - Python Recipes - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3009)
+- [Python - Is Your Python Healthy - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2999)
+- [Python - Memory Allocation - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces, grammar improvements](https://github.com/enkidevs/curriculum/pull/3002)
+- [Python - Playing With Time - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3007)
+- [Python - Deep Into Collections - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2997)
+- [Python - Python Functions - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3008)
+- [Python - Control Flow II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2996)
+- [Python - Control Flow I - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2995)
+- [Python - Intro To Modules - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2998)
+- [Python - Classes II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2993)
+- [Python - More On Dictionaries - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3004)
+- [Python - Math Recipies - Minor grammar improvement](https://github.com/enkidevs/curriculum/pull/3001)
+- [Python - More On Lists - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3005)
+- [Python - Classes I - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/2992)
+- [Python - Looping - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3000)
+- [Python - Meet Python - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3003)
+- [Python - Python Tips - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3010)
+- [Python - Sequential Data Types II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3012)
+- [Python - Decorators - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3023)
+- [Python - Functional Programming II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3025)
+- [Python - String Recipes - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3013)
+- [Python - Syntax And Numerical Operators - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3014)
+- [Python - Testing - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3015)
+- [Python - Unordered Data Types - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3016)
+- [Python - Utilities I - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3017)
+- [Python - Utilities II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3018)
+- [Python - Working With Strings - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3019)
+- [Python - Arrays I - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3020)
+- [Python - Arrays II - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3021)
+- [Python - Comprehension - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3022)
+- [Python - Functional Programming - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3024)
+- [Python - Generators - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3026)
+- [Python - Python Immutability - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3028)
+- [Python - Iterators - Move single-line commands to a single line, update indentation in codeblocks from 4 to 2 spaces](https://github.com/enkidevs/curriculum/pull/3027)
+
+## January 4th 2022
+
+### Fixed
+- [HTML - Image Map - Fix incorrect description word for area element](https://github.com/enkidevs/curriculum/pull/2975)
+- [Blockchain - What Are Smart Contracts - Fix misspelled files word](https://github.com/enkidevs/curriculum/pull/2978)
+- [Linux - Converting Between Unix And Windows Text Files - Replace wrong quotation character with the correct one](https://github.com/enkidevs/curriculum/pull/2976)
+
+## December 30th 2021
+
+### Fixed
+- [HTML - The Caption Element - Add minor info when to use strong, b and font-weight property to avoid confusion](https://github.com/enkidevs/curriculum/pull/2972)
+
+### Changed
+- [SQL - Join Role - Change table example](https://github.com/enkidevs/curriculum/pull/2973)
+
+- [Git - All Applicable Code Blocks - Change all single line commands that span multiple lines from PQ and RQ & content to be on a single line.](https://github.com/enkidevs/curriculum/pull/2974)
+
+## December 29th 2021
+
+### Fixed
+- [Git - Sharing Data By Bundling - Remove git keyword from cd command and make the PQ a single line command](https://github.com/enkidevs/curriculum/pull/2969)
+- [Java - Multithreading - Update the workout's name & description](https://github.com/enkidevs/curriculum/pull/2971)
+
+## December 27th 2021
+
+### Fixed
+- [Git - Commits - How To Write A Git Commit Message](https://github.com/enkidevs/curriculum/pull/2968)
+
+## December 22nd 2021
+
+### Fixed
+- [Styling - Border - Replace incorrect questions](https://github.com/enkidevs/curriculum/pull/2963)
+- [Linux - Adding Directories To Path - Add missing quotations and export keyword in first and third code example](https://github.com/enkidevs/curriculum/pull/2965)
+- [Linux - Adding Directories To Path - Add Resource link on export keyword](https://github.com/enkidevs/curriculum/pull/2966)
+- [SQL - SUM clause - Remove subquery use & general improvements](https://github.com/enkidevs/curriculum/pull/2967)
+
+## December 21st 2021
+
+### Fixed
+- [Coding Intro - While Do - Replace OR with And in loop example to avoid infinite loop](https://github.com/enkidevs/curriculum/pull/2964)
+
+## December 16th 2021
+
+### Fixed
+- [Go - Intro To Fmt - Fix typo in PQ variable name](https://github.com/enkidevs/curriculum/pull/2962)
+
+## December 13th 2021
+
+### Fixed
+- [Regular Expressions - Dates - Change Backslash to forward slash in note](https://github.com/enkidevs/curriculum/pull/2959)
+
+## December 10th 2021
+
+### Fixed
+- [React - React The Redux Store - Remove duplicate answer field from pq](https://github.com/enkidevs/curriculum/pull/2957)
+- [Linux - Using Find To Search By Filename - Remove forward slash from second answer field as it is unnecessary](https://github.com/enkidevs/curriculum/pull/2960)
+
+## December 9th 2021
+
+### Fixed
+- [Python Data Analysis - TV Show Ratings - Add missing dots to 2 methods](https://github.com/enkidevs/curriculum/pull/2952)
+- [HTML - Global Attributes 2 - Update grammar](https://github.com/enkidevs/curriculum/pull/2954)
+- [Python Data Analysis - Total Number Of Actors - Remove extra dot from revision question answer](https://github.com/enkidevs/curriculum/pull/2951)
+- [Python Data Analysis - Total Number of TV Show Actors - Replace duplicate image](https://github.com/enkidevs/curriculum/pull/2953)
+- [Java - Java8 Lambda Expressions - Fix incorrect code example](https://github.com/enkidevs/curriculum/pull/2955)
+- [Styling - Matches Any Pseudo Class Matches - Replace Matches with is as it was officially renamed](https://github.com/enkidevs/curriculum/pull/2956)
+
+## December 8th 2021
+
+### Fixed
+- [CSS - Horizontal Centering With Marging 0 Auto - Replace class with id as hashtag goes with id and dot with class](https://github.com/enkidevs/curriculum/pull/2950)
+
+## December 7th 2021
+
+### Fixed
+- [Python - Three Ways To Substitute A Substring Of A String - Fix PQ](https://github.com/enkidevs/curriculum/pull/2949)
+- [HTML - Text Fields - Replace image with a version that has the correct placeholder text](https://github.com/enkidevs/curriculum/pull/2948)
+
+## November 29th 2021
+
+### Fixed
+- [SQL - SQL Injection - Add missing space between WHERE and rest of code in both content code blocks](https://github.com/enkidevs/curriculum/pull/2946)
+- [Golang - If Else - Fix incorrect code example regarding scopes](https://github.com/enkidevs/curriculum/pull/2947)
+
+## November 26th 2021
+
+### Fixed
+- [Data Analysis - Syntax II - Replace equal signs with LIKE when using wildcards](https://github.com/enkidevs/curriculum/pull/2944)
+- [Web - Table tr and td - Fix grammar psudo to pseudo](https://github.com/enkidevs/curriculum/pull/2945) 
+
+## November 23rd 2021
+
+### Fixed
+- [Airtable - Airtable Linking Tables - Fix incorrectly rendered answer for the PQ](https://github.com/enkidevs/curriculum/pull/2943)
+
+## November 19th 2021
+
+### Fixed
+- [Python - Shorthand Notation For Arithmetic Operations - Fix inccorect output displayed in comment](https://github.com/enkidevs/curriculum/pull/2942/)
+
+## November 17th 2021
+
+### Changed
+- [Go - Formatting - Remove Type In The Gap as there is more than one correct answer](https://github.com/enkidevs/curriculum/pull/2940)
+
+## November 15th 2021
+
+### Changed
+- [JavaScript - Using Test With Regexp - Update question](https://github.com/enkidevs/curriculum/pull/2934)
+- [JavaScript - Remote Scripts - Remove type in the gap as one extra space can make the answer incorrect](https://github.com/enkidevs/curriculum/pull/2939)
+
+
+### Fixed
+- [JavaScript - IIFE Pattern - Fix incorrect syntax in RQ](https://github.com/enkidevs/curriculum/pull/2935)
+- [Spreadsheets - What Are Formulas - Fix markdown table rendering incorrectly](https://github.com/enkidevs/curriculum/pull/2937)
+- [Java - Serializing - Fix grammar](https://github.com/enkidevs/curriculum/pull/2936)
+- [React - Rules Of Hooks - Fix incorrect PQ answer](https://github.com/enkidevs/curriculum/pull/2938)
+
+## November 11th 2021
+
+### Fixed
+- [JavaScript - Differences Between Null, Undefined and NaN - Fix pq example](https://github.com/enkidevs/curriculum/pull/2932)
+
 ## November 4th 2021
 
 ### Fixed
@@ -645,6 +1074,7 @@ Types of change:
 
 ### Fixed
 - [Javascript - Closures - Fix typo](https://github.com/enkidevs/curriculum/pull/2690)
+- [Python Data Analysis - Analysis Environments - Fix Footnote number](https://github.com/enkidevs/curriculum/pull/2692)
 
 ### Changed
 - [Python - Meet Python - Add code-oriented questions; other improvements](https://github.com/enkidevs/curriculum/pull/2681)
